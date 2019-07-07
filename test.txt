@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 20A2-51DA
+
+ Directory of C:\Users\uno\Desktop\test project
+
+07/07/2019  10:49 AM    <DIR>          .
+07/07/2019  10:49 AM    <DIR>          ..
+07/07/2019  10:49 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  95,580,250,112 bytes free
